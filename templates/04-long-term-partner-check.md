@@ -24,7 +24,8 @@ For a co-founder, first hire, business partner or investor. Score signals, not c
 | Energy, for this specific work (would they do it unasked?) [RICH-11] | | |
 | Integrity | | |
 
-A 5, 5, 1 is a fail: smart, hard-working and low integrity is a crook [RICH-11].
+Our scoring rule: a 5, 5, 1 is a fail, because he describes smart, hard-working and low integrity as a crook
+[RICH-11].
 
 ## 3 · Integrity signals [RICH-11]
 
@@ -47,8 +48,8 @@ A 5, 5, 1 is a fail: smart, hard-working and low integrity is a crook [RICH-11].
 
 ## 5 · Cynic check
 
-"Don't partner with cynics and pessimists. Their beliefs are self-fulfilling."
-[TWEET18 #11](https://x.com/naval/status/1002104083694501890)
+The thread warns that cynics' and pessimists' beliefs are self-fulfilling
+[TWEET18 #11](https://x.com/naval/status/1002104083694501890).
 
 - When you share an idea, do they build on it or list why it fails? ______________
 - Do they act first and then decide, or debate first? [RICH-12] ______________

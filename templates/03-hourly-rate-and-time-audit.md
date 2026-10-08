@@ -28,9 +28,8 @@ His was $5,000 an hour before he had real money [RICH-27].
 | | | | | | |
 | | | | | | |
 
-The tweet's rule: "If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will
-cost less than your hourly rate, outsource it."
-[TWEET18 #35](https://x.com/naval/status/1002108599399661568)
+The tweet's rule, paraphrased: ignore problems whose fix saves less than your rate, and outsource tasks that cost
+less than your rate [TWEET18 #35](https://x.com/naval/status/1002108599399661568).
 
 ## 3 · Inputs vs outputs
 
