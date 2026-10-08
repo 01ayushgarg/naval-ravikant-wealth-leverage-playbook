@@ -1,152 +1,106 @@
 # 12 · Angel investing
 
 Sources in this chapter: VH-angel (16 Mar 2009, a talk transcript posted by Nivi; only Naval's lines are
-quoted) · NAV-there-is-no-angel-bubble-there-are-many-angel-bubbles (1 Dec 2010) · ANGEL-1 (17 Nov 2019) ·
-ANGEL-2 (12 Jun 2020).
+quoted) · NAV-there-is-no-angel-bubble-there-are-many-angel-bubbles (1 Dec 2010) · TF-097 (18 Aug 2015) · TKP-18
+(27 Feb 2017) · ANGEL-1 (17 Nov 2019) · ANGEL-2 (12 Jun 2020) · NAV-sell (11 May 2026).
 
 ## Read this first
 
 > "Angel investing is a great way to lose your money." [ANGEL-1]
 
-> "This is not investment advice; but you may find this useful if you're already in the profession or in the
-> hobby of angel investing." [ANGEL-1]
+He says the material is not investment advice and is focused on early-stage tech in San Francisco and Silicon
+Valley: "A lot of this will not translate to other locations." [ANGEL-1] His 2009 framing: treat yourself as a
+patron of innovation, and assume your money is lost the day you invest it [VH-angel]. Everything here is dated
+2009 to 2020; valuations, fund terms and hot sectors have moved since.
 
-> "We're very focused on early-stage technology startups in San Francisco and Silicon Valley. A lot of this will
-> not translate to other locations." [ANGEL-1]
+## The model in one paragraph (our synthesis)
 
-His 2009 frame: "So think of yourself as a patron of innovation." [VH-angel] "You'll sleep a lot better at
-night, if you assume your investments are lost on the day that you make them." [VH-angel]
+Returns follow a power law, so the job is to be in the one deal that returns the portfolio. You get into that
+deal through access, which comes from a brand built on what you genuinely do for founders. You pick it with
+judgement, which takes years to calibrate and is mostly about founders. You survive long enough to find it by
+sizing checks small, waiting before you commit, and behaving well when companies fail. Each part, with his
+words:
 
-Everything here is dated 2009 to 2020. Valuations, fund terms and hot sectors have moved since.
-
-## The three things you need
-
-> "The three things it takes to get into investing are capital, judgment and dealflow." [ANGEL-1] He gave the
-> same three in 2009 [VH-angel].
-
-| | His words |
-|---|---|
-| Capital | "To get capital, either you make your own money to invest, or you gain enough trust from other people to invest their capital." [ANGEL-1] |
-| Judgement | "At the end of the day, judgment is the single most important thing." [ANGEL-2] |
-| Dealflow and access | "Dealflow and access are not the same thing." [ANGEL-1] |
-
-## Returns follow a power law
-
-> "If you look at just about any successful angel investor's portfolio, the majority of returns come from one
-> deal." [ANGEL-1]
+## 1 · Returns follow a power law
 
 > "You're better off with a portfolio in which nine out of 10 investments go to zero and the 10th one goes 1,000x,
 > than a portfolio where all of them are 2x or 3x." [ANGEL-2]
 
-So: "If a founding team hints, signals or even just appears likely to sell the company early, it's a strong
-negative indicator." [ANGEL-2]
+In 2015 he described the bet as most companies going to zero or returning your money while the rest post huge
+multiples [TF-097]. In 2026 he repeated it for deals in general: the number one winner is worth more than all the
+others put together [NAV-sell]. The consequence he draws: a team that looks likely to sell early is a negative
+signal [ANGEL-2].
 
-## Access: the brand gets you in
+## 2 · Access comes from a brand
 
-> "When you get cut out of a deal, that's an indication that the deal may be a winner." [ANGEL-1]
+> "The three things it takes to get into investing are capital, judgment and dealflow." [ANGEL-1]
 
-> "The way you get access is by building a brand." [ANGEL-1]
+He gave the same three in 2009 [VH-angel]. On access: "The way you get access is by building a brand."
+[ANGEL-1] He defines a brand as an authentic reputation with founders and investors, built around your real
+capabilities rather than a vertical [ANGEL-1]. His own early brand was growth hacking, which got him into Twitter's
+round [ANGEL-1]. Two warnings: hunting for deals lowers returns, and a stranger offering you a deal has probably
+exhausted their closer allies [ANGEL-1]. Being cut out of a deal, he says, can indicate it's a winner [ANGEL-1].
 
-> "A brand is an authentic reputation you have with founders and investors" [ANGEL-1]
-
-> "You're not going to build a brand simply because you want to." [ANGEL-1]
-
-> "It's best to build a brand around your unique capabilities, platforms and assets, but not around verticals."
-> [ANGEL-1]
-
-His own early brand was growth hacking, which got him into Twitter's round [ANGEL-1].
-
-### Start with your network
-
-> "The urge to hunt for deals actually will lower your returns." [ANGEL-1]
-
-On deals from strangers: "Because you can bet that if they're inviting a stranger, they've already exhausted
-their network of close allies and comrades." [ANGEL-1]
-
-### Pro-rata
-
-> "Pro-rata rights are the ability to invest in later rounds." [ANGEL-1] He calls them valuable because later
-> cash-on-cash returns are often better and keep you close to the company [ANGEL-1].
-
-## Judgement
-
-> "Judgment means applying your highest standards and taste in the things you know the best." [ANGEL-1]
-
-> "A good investor often is a lot more cynical and pessimistic than a good founder." [ANGEL-1]
-
-> "If you do more than one out of every 10 deals that you look at, you're probably being too optimistic."
-> [ANGEL-1]
-
-> "Unfortunately, in early-stage investing it takes five to 15 years to figure out if you have good judgment."
-> [ANGEL-2]
-
-> "In some sense, diversification is a hedge against the lack of knowledge." [ANGEL-2]
-
-> "Judgment is the preparation you do before a deal arrives so that your subconscious can process it quickly."
-> [ANGEL-2]
-
-### Calibrate it
-
-Markups by top firms tell you that you predict other investors' taste, not that you're right [ANGEL-2]. A better
-signal: "But if good investors with proven judgment pile into the same round after you, that is a reasonable
-indication of good judgment." [ANGEL-2]
-
-### Be non-consensus and right
-
-> "the real money in this business is made by being non-consensus and right" [ANGEL-1]
-
-> "The larger the herd you listen to, the worse your returns will be." [ANGEL-1]
-
-> "The best deals are weird. They always have something broken, strange or different about them." [ANGEL-2]
-
-> "You can give every deal one fatal flaw" [ANGEL-2] "If there's more than one flaw, you have to worry." [ANGEL-2]
-
-> "Anyone in this business who's chasing hot markets gets killed." [ANGEL-2]
-
-## Judging founders
+## 3 · Judgement, mostly about founders
 
 > "With most startups, almost all the value creation happens while the founder is intimately involved. So you're
 > betting on the founder." [ANGEL-2]
 
-| Test | His words |
+His founder tests, paraphrased:
+
+| Test | Source |
 |---|---|
-| A technologist on the team | "If there's no strong technical person on the founding team, either it's not a technology business or the company has outsourced that function" [ANGEL-2] |
-| Energy | "Energy because drive and passion are the number one predictor of an entrepreneur's success, and it's not actually intelligence in that case." [VH-angel] |
-| Integrity, not niceness | "Seek integrity over niceness." [ANGEL-2] "Integrity gets tested when the stakes are high." [ANGEL-2] |
-| Not coachability | "In fact, great founders aren't that coachable. They listen to lots of advice, but they follow very little of it." [ANGEL-2] |
-| First-time founders | "With first-time founders, you must test their ability to learn." [ANGEL-2] |
-| Repeat founders | "With repeat founders, you should test for passion." [ANGEL-2] |
-| Titles | "If you see a company that's very top-heavy, has its CEO, its CFO, VP of this, SVP of that, then it's usually a bad sign." [VH-angel] |
+| A strong technical person on the founding team | [ANGEL-2] |
+| Energy: drive and passion predict success more than intelligence | [VH-angel] |
+| Integrity over niceness, tested when stakes are high | [ANGEL-2] |
+| Not coachability: great founders listen widely and follow little | [ANGEL-2] |
+| First-timers: test ability to learn. Repeat founders: test passion | [ANGEL-2] |
+| Builders, not titles; a top-heavy company is a bad sign | [VH-angel] |
 
-On references: "I passed on Twilio in the seed round because of a reference" [ANGEL-2], which he calls a big
-mistake.
+On deals: "The best deals are weird. They always have something broken, strange or different about them."
+[ANGEL-2] He allows one fatal flaw and worries at two [ANGEL-2], and says the money is made being
+"non-consensus and right" [ANGEL-1]. Hot markets get chasers killed [ANGEL-2].
 
-And a trap: "You'll learn the painful lesson that it's actually the entrepreneur who's running the company."
-[ANGEL-2]
+**Calibrating it.** "Unfortunately, in early-stage investing it takes five to 15 years to figure out if you have
+good judgment." [ANGEL-2] Markups tell you that you predicted other investors' taste; good investors piling in
+after you is a better sign [ANGEL-2]. He calls diversification a hedge against lack of knowledge [ANGEL-2].
 
-## Process discipline
+## 4 · Survive: size, wait, behave
 
-> "I'm not going to make an investment until I see at least twenty companies." [VH-angel] (His suggested rule for
-> new angels, 2009.)
+His 2017 system: "my system is I want to see 10,000 companies and I want to pick 500 that have a shot of being
+huge." [TKP-18] Then keep the option to double down on the few winners [TKP-18]. His 2009 suggestion for new
+angels was to see at least twenty companies before the first check [VH-angel].
 
-> "So, the best time to say no is before you take a meeting." [VH-angel]
+- **Wait.** He uses a 24-hour cooling-off period before and after deciding [ANGEL-2]. In 2015 he named fear of
+  missing out as the worst reason to invest [TF-097].
+- **Size.** "So don't put down so much that you care." [ANGEL-2] Price matters because a lower price lets you pick
+  more startups [NAV-there-is-no-angel-bubble-there-are-many-angel-bubbles].
+- **Time.** His regret is less the losses than advisory roles that eat time: "Guard your time more carefully than
+  you guard your money." [TF-097]
+- **Behave.** "Your returns get built by the companies that are doing well. Your reputation gets built by the
+  companies that are doing poorly." [ANGEL-2]
 
-> "Don't ever forward a deal you wouldn't do yourself." [VH-angel]
+## How to apply it (our reading)
 
-> "The best investors are immune to the FOMO effect." [ANGEL-2] His own rule is a 24-hour wait before and after
-> deciding [ANGEL-2].
+1. **Set an angel budget** you can lose entirely, and a standard check size (for example 5% of the budget).
+2. **Write your brand** in one line: what you do for founders that's specific to you.
+3. **See before you sign:** track every deal you see; aim for the twenty-before-first-check bar [VH-angel].
+4. **Memo every deal** with the founder tests and the flaw count (`templates/07-angel-investment-memo.md`).
+5. **Wait 24 hours,** then decide; log your call for calibration [ANGEL-2].
 
-> "Once you have conviction, always try to get your standard bite into that deal." [ANGEL-2]
+**Worked number (invented).** A $100,000 budget at $5,000 a check gives 20 deals. Say 14 go to zero, 4 return
+1x ($20,000), 1 returns 5x ($25,000), and 1 returns 30x ($150,000). Total back: $195,000 on $100,000. Without the
+30x deal: $45,000, a loss of 55%. That is the power law in his sense: one deal decides the portfolio, so missing it
+costs more than any single loss.
 
-Price still matters: "a lower price allows you to pick more startups in the hope of finding that one winner."
-[NAV-there-is-no-angel-bubble-there-are-many-angel-bubbles]
+**Failure modes (our reading):**
+- Writing checks big enough that you'll treat founders badly when it goes wrong.
+- Mistaking access to many deals for access to good ones.
+- Grading yourself on early markups.
+- Advisory roles that cost more time than they're worth [TF-097].
 
-## Behave well when it goes badly
-
-> "Your returns get built by the companies that are doing well. Your reputation gets built by the companies that
-> are doing poorly." [ANGEL-2]
-
-> "So don't put down so much that you care." [ANGEL-2]
+**Limits:** his record is from Silicon Valley in an unusual era. Survivorship applies: the investors you hear from
+are the ones whose winners came in (chapter 18).
 
 **Use it now:** `templates/07-angel-investment-memo.md`.
 

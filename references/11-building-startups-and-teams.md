@@ -1,37 +1,39 @@
 # 11 · Building startups and teams
 
-Sources in this chapter: NAV-the-80-hour-myth (29 Nov 2005) · NAV-the-returns-to-entrepreneurship (9 Nov 2009) ·
-VH-pick-cofounder (12 Nov 2009, byline Naval) · VH-startup-principles (26 Apr 2010, byline Naval) ·
-VH-passion-market (17 Jul 2011, byline Naval) · NAV-why-you-cant-hire (13 Dec 2011) ·
-NAV-build-a-team-that-ships (27 Apr 2012) · TF-QA (2 May 2016) · RICH-11 (22 Mar 2019) · RICH-28 (6 May 2019) ·
-RICH-36 (23 May 2019) · NAV-principal-agent (8 Jul 2019) · NAV-relationships (19 Jul 2019) · NAV-truly (27 Jul
-2025) · NAV-fool (22 Sep 2025) · NAV-simplest (2 Oct 2025).
+Sources in this chapter: NAV-the-80-hour-myth (29 Nov 2005) · VH-pick-cofounder (12 Nov 2009, byline Naval) ·
+VH-startup-principles (26 Apr 2010, byline Naval) · VH-passion-market (17 Jul 2011, byline Naval) · TF-QA (2 May 2016) ·
+NAV-build-a-team-that-ships (27 Apr 2012) · RICH-11 (22 Mar 2019) · RICH-28 (6 May 2019) · RICH-36 (23 May 2019) ·
+NAV-principal-agent (8 Jul 2019) · NAV-relationships (19 Jul 2019) · NAV-truly (26 Jul 2025) · NAV-fool (22 Sep
+2025) · NAV-simplest (1 Oct 2025) · NAV-curate-people (7 Nov 2025) · NAV-code (28 Apr 2026) · NAV-sell (11 May 2026).
 
-Venture Hacks posts were co-written by Naval and Babak Nivi. The ones quoted here carry Naval's byline.
+This chapter is the founder's overview. Recruiting and culture are in chapter 14, selling and deals in 15,
+fundraising in 16, and AI-era building in 17. Venture Hacks posts were co-written by Naval and Babak Nivi; the ones
+quoted here carry Naval's byline.
 
-## His one-page startup method (2010)
+## What changed between 2010 and 2026
 
-From a Q&A answer he reposted on Venture Hacks [VH-startup-principles]:
+His 2010 one-page method [VH-startup-principles], our paraphrase: move to Silicon Valley (in 2016, any startup
+hub [TF-QA]); pick a great co-founder with complementary skills; hire for intelligence, energy and integrity; pick
+a big market; build a minimum viable product to test what the market needs; iterate until you find
+product/market fit, and don't raise money until you do; then raise from people you trust, keep control, and
+scale. The core line: "Iterate like crazy until you find product/market fit." [VH-startup-principles]
 
-1. Move to Silicon Valley (in 2016: if you can't, move to a startup hub [TF-QA]).
-2. "Pick a great co-founder with complementary skills." [VH-startup-principles]
-3. "Select people with intelligence, energy and integrity." [VH-startup-principles]
-4. Pick a big market.
-5. "Develop the minimum viable product to test your hypothesis about what the market needs."
-   [VH-startup-principles]
-6. "Iterate like crazy until you find product/market fit. If you don't find it, do not raise money, do not pass
-   go. Start over." [VH-startup-principles]
-7. "If you have found product/market fit, raise money from high-quality people that you trust. Keep control."
-   [VH-startup-principles]
-8. Scale. Hang on.
+Our reading of how his newer sources update it:
+
+| 2010 step | What the 2025 and 2026 episodes add |
+|---|---|
+| Move to a hub | Still his default for tech; but AI tools let small teams anywhere build prototypes [NAV-code] |
+| Pick a co-founder | Still the biggest call; one seller, one builder [NAV-curate-people] |
+| Hire well | Founders can't outsource recruiting, and early teams look like cults (chapter 14) [NAV-curate-people] |
+| Build an MVP | A founder can now often prototype alone with coding agents (chapter 17) [NAV-code] |
+| Iterate to fit | Iterations, not hours; good teams throw away most of what they build [NAV-curate-people] |
+| Raise money | Raise early, from excitement, and walk away from bad terms (chapters 15 and 16) [NAV-sell] |
 
 ## Before product-market fit, passion-market fit
 
-> "So the only way you're likely to find product-market fit is if you're almost irrationally obsessed with the
-> market and if you've been working on it for a long time." [VH-passion-market]
-
-He later adds the founder to the fit: product-market-founder fit, "taking into account how well a founder is
-personally suited to the business." [RICH-28]
+His 2011 argument: product-market fit is precise and the Internet is efficiently arbitraged, so you're most
+likely to find it if you're obsessed with the market and have worked on it a long time [VH-passion-market]. He
+later adds the founder to the fit [RICH-28].
 
 ## The co-founder is the biggest decision
 
@@ -41,84 +43,71 @@ personally suited to the business." [RICH-28]
 > "The ideal founding team is two people, with a history of working together, of similar age and financial
 > standing, with mutual respect." [VH-pick-cofounder]
 
-| His rule [VH-pick-cofounder] | In his words |
-|---|---|
-| Two is the right number | "Two founders works because unanimity is possible, there are no founder politics, interests can easily align, and founder stakes are high post-financing." [VH-pick-cofounder] |
-| One builds, one sells | "The best builders can prototype and perhaps even build the entire product, end-to-end. The best sellers can sell to customers, partners, investors, and employees." [VH-pick-cofounder] |
-| Aligned motives | "true motivations are revealed, not declared." [VH-pick-cofounder] |
-| Don't settle | "If it doesn't feel right, keep looking. If you're compromising, keep looking." [VH-pick-cofounder] |
-| Plan the breakup | "If you're going to fall out with your co-founder, do it early" and use founder vesting [VH-pick-cofounder] |
+His other rules in that post, paraphrased: two is the right number; one builds and one sells; motives are
+revealed, not declared; if you're compromising, keep looking; and if you're going to fall out, do it early, with
+founder vesting in place [VH-pick-cofounder]. In 2025 he still describes the usual pair as one person better at
+selling and one better at building [NAV-curate-people]. And: "The most under-recognized reason startups fail is
+because the founders fall apart." [NAV-relationships]
 
-Ten years later: "The most under-recognized reason startups fail is because the founders fall apart."
-[NAV-relationships]
+## Build a team that ships
 
-## Hire people who already want it
-
-> "When I was younger, I used to try and talk people into things." [RICH-11]
-
-> "But if you're trying to keep someone motivated for the long-term, that motivation has to come intrinsically."
-> [RICH-11]
-
-Be honest about the deal. "At some level every founder has to lie to every employee of the company they have."
-[RICH-36] His alternative pitch to entrepreneurial hires: "You're going to be entrepreneurial in this company, and
-the day you're ready to start your own next thing, I'm going to support you." [RICH-36]
-
-On early equity (2011): "Your first two engineers? They're just late founders. Treat them as such."
-[NAV-why-you-cant-hire]
-
-## Build a team that ships (2012)
-
-How he ran the early AngelList team [NAV-build-a-team-that-ships]:
-
-> "Keep the team small. All doers, no talkers. Absolutely no middle managers." [NAV-build-a-team-that-ships]
-
-> "People choose what to work on. Better they ship what they want than not ship what you want."
-> [NAV-build-a-team-that-ships]
-
-> "You have to ship something into live production every week" [NAV-build-a-team-that-ships]
-
-> "One person per project. Get help from others, but you and you alone are accountable."
-> [NAV-build-a-team-that-ships]
-
-His own caveat in the same post: "It's not perfect. We ship too many features, many half-baked."
-[NAV-build-a-team-that-ships]
-
-And from 2005: "Nothing damages a startup like a mediocre and reliable performer." [NAV-the-80-hour-myth]
+His 2012 rules for the early AngelList team, paraphrased [NAV-build-a-team-that-ships]: keep the team small, all
+doers and no middle managers; let people choose what to work on; ship to production every week; one person per
+project, alone accountable. His own caveat in the post: they shipped too many half-baked features
+[NAV-build-a-team-that-ships].
 
 ## Incentives are half of management
 
 > "If you can hack your way through the principal-agent problem, you'll probably solve half of what it takes to
 > run a company." [NAV-principal-agent]
 
-> "Almost all human behavior can be explained by incentives." [NAV-principal-agent]
-
-For outside help he prefers small firms where the principal does the work: "My ideal law firm is a law firm of
-one." [NAV-principal-agent]
+Be honest with hires about the deal. He says that at some level every founder has to lie to every employee, and
+offers an alternative: tell entrepreneurial hires you'll support them when they leave to start their own thing
+[RICH-36].
 
 ## Someone holds the whole product in their head
 
-In 2025, retelling Elon Musk's method of questioning each requirement back to the person who set it, he says the
-key person is the one "who can hold the entire problem in their head and make the trade-offs" [NAV-simplest],
-usually the founder.
+He says the key person in going from zero to one is usually the founder, the one "who can hold the entire problem
+in their head and make the trade-offs" [NAV-simplest].
 
 ## Take feedback from customers, not applause
 
-> "If you're optimizing your company to end up on the cover of a magazine, or to win an industry award, you're
-> failing." [NAV-fool]
-
 > "You need customers. That's your real feedback." [NAV-fool]
+
+He adds that optimizing for magazine covers or awards means you're failing [NAV-fool].
 
 ## What it costs you
 
 > "You are the business. You are the product. You are the work." [NAV-truly]
 
-> "And that's the curse of the entrepreneur." [NAV-truly] The upside: "a taste of freedom can make you
-> unemployable" [NAV-truly].
+He calls that the curse of the entrepreneur, and adds that a taste of that freedom can make you unemployable
+[NAV-truly].
 
-**Dated numbers:** in 2009 he wrote that what had cost $1M to $2M to set up now cost $10K
-[NAV-the-returns-to-entrepreneurship]. Costs have kept falling. The direction holds; the figures are history.
+## How to apply it (our reading)
 
-**Use it now:** `templates/04-long-term-partner-check.md` for a co-founder or first hire.
+1. **Founding pair check.** Name the builder and the seller. If one is missing, that's the first hire or
+   co-founder search.
+2. **Write the market hypothesis** in one line, and the cheapest test of it.
+3. **Count iterations,** not hours: how many shipped experiments with a real result each week?
+4. **Set a fit bar** before raising: a number of users or revenue that would make you excited (chapter 16).
+5. **Founder vesting and a written split** before any outside money [VH-pick-cofounder].
+
+**Worked scenario (invented).** Two engineers want to build scheduling software for dental clinics. Neither has
+sold anything. Our reading of his rules: find a seller co-founder who knows clinics, or one of them commits to
+selling; ship a prototype in two weeks with coding agents; run 20 clinic demos before raising. A full pre-seed
+example is in `examples/02-pre-seed-founder.md`.
+
+**Failure modes (our reading):**
+- Two builders and no seller, or the reverse.
+- Hiring managers before there's anything to manage [NAV-build-a-team-that-ships].
+- Raising before fit and scaling a guess [VH-startup-principles].
+- Optimizing for press [NAV-fool].
+
+**Dated numbers:** the 2009 to 2012 posts reflect costs, hubs and cap tables of that time. The direction holds;
+the figures are history.
+
+**Use it now:** `templates/04-long-term-partner-check.md` for a co-founder, `templates/08-hiring-scorecard.md` for
+early hires.
 
 **Checks to run:**
 1. Do you have a builder and a seller? If you're one person, which half is missing, and who covers it?
