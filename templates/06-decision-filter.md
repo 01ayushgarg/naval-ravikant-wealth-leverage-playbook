@@ -2,7 +2,7 @@
 
 For one big, long-lived choice: a job, a co-founder, a city, a large check, a new company. Source:
 `references/10-decisions.md` [VH-angel, TF-QA, TKP-18, RICH-12, RICH-33, RICH-34, NAV-kelly-criterion, ANGEL-2,
-NAV-sell]. The order of steps and the stop rules are our suggestion, not his. He says he doesn't use a checklist
+NAV-sell, X posts of 2012 and 2018]. The order of steps and the stop rules are our suggestion, not his. He says he doesn't use a checklist
 for decisions himself [TKP-18]; use this only if it helps.
 
 **The decision:** ______________ · **Deadline (real or imposed?):** ________ · **Date:** ________
@@ -31,13 +31,15 @@ suggestion is to say no, or to change the deal until no outcome is ruin. He says
 - Are you excited, or just not opposed? "If I'm not excited about something, I'm not going to do it." [TF-QA]
 - Would you do it right now? He says if he isn't willing to do it right now, don't commit [TKP-18].
 - Write the decision down and check again in 48 hours with a clear mind [TKP-18]. Still a clear yes? Y / N
-- Still in doubt? His 2009 rule for investments: "So, when in doubt, just say no." [VH-angel]
+- Still in doubt? "If you can't decide, the answer is No." [X 2012-07-11](https://x.com/naval/status/222912380353511424)
+  His 2009 version for investments: "So, when in doubt, just say no." [VH-angel]
 
 ## 4 · If it's a genuine tie
 
-The Almanack has a tie-breaker we couldn't trace to a primary source: take the path that's more painful in the
-short term [ALM, compiled by Eric Jorgenson]. Use it as a prompt, not a rule: which path are you avoiding only
-because it hurts now? ______________
+His 2018 tie-breaker: of two equally difficult paths, choose the one more painful in the short term, because pain
+avoidance creates an illusion of equality [X 2018-07-13](https://x.com/naval/status/1017619107196297216). The
+Almanack carries a compiled version [ALM, compiled by Eric Jorgenson]. Use it as a prompt, not a rule: which path
+are you avoiding only because it hurts now? ______________
 
 ## 5 · Advice you're relying on [RICH-34]
 

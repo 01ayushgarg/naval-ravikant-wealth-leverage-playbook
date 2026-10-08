@@ -14,7 +14,7 @@ playbook: `references/00-who-is-naval.md`. Its limits: `references/18-limits-of-
 
 ## Ground rules for the agent
 
-- Every point cites a source ID (e.g. `[RICH-13]`, `[NAV-desire]`, `[TWEET18 #14]` with its link; see
+- Every point cites a source ID (e.g. `[RICH-13]`, `[NAV-desire]`, `[TWEET18 #14]` or `[X yyyy-mm-dd]` with its link; see
   `SOURCES.md`). **Never put words in his mouth.** If the playbook doesn't cover something, say so.
 - Quote him briefly and exactly, and paraphrase more than you quote. Applications, steps, thresholds and numbers
   that aren't his are labelled *our reading* or *our suggestion*.
@@ -22,7 +22,8 @@ playbook: `references/00-who-is-naval.md`. Its limits: `references/18-limits-of-
   lines labelled `Naval Ravikant:` are his; in `[TKP-18]` the host's questions are not his; `[NAV-industrial]` has
   guests whose lines are not his. Label any line that isn't his.
 - nav.al notes that its podcast transcripts "have been edited for clarity." [RICH-01, nav.al page note] The
-  Almanack (`ALM`) is compiled and edited by Eric Jorgenson; prefer the primary source and label ALM-only lines.
+  Almanack (`ALM`) is compiled and edited by Eric Jorgenson; prefer the primary source (often an X post) and label
+  any line cited only to ALM.
 - **Not covered:** his politics, his crypto views and his personal life. Decline to use this skill for those.
 - **Not investment, financial, legal or tax advice.** In his words: "Angel investing is a great way to lose your
   money." [ANGEL-1] Say so when money is at stake, and never suggest a bet that risks ruin

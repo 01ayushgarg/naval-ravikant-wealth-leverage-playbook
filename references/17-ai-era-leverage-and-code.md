@@ -2,13 +2,18 @@
 
 Sources in this chapter: RICH-22 (17 Apr 2019) · NAV-ai (19 Feb 2026) · NAV-code (28 Apr 2026, a podcast with
 Nivi) · NAV-industrial (1 Jun 2026, a panel episode with Nivi and three guests; only lines labelled `Naval:` are
-quoted).
+quoted) · X posts (2025, 2026).
 
 **Dated and moving fast.** These episodes are from 2026 and describe tools that change month to month. He says so
 himself: knowing the edges of what the tools can do "is a moving target." [NAV-industrial] Read this for the
 principles, not the tool list.
 
 ## Code leverage just got cheaper
+
+> "AI is a form of leverage. Leverage increases the returns to those who use it."
+> [X 2025-07-07](https://x.com/naval/status/1942102738265161834)
+
+The same post says software engineers are gaining leverage relative to everyone else [X 2025-07-07](https://x.com/naval/status/1942102738265161834).
 
 In 2019 he called coding a way to command "robot armies" [RICH-22]. In 2026 he says coding agents had reached the
 point where they could build apps end to end, and describes building his own private set of apps for himself and
@@ -21,7 +26,8 @@ his family [NAV-code]. The effect, in his words:
 > you can code now." [NAV-code]
 
 He also notes the limit: most people still won't code their own apps, and when an app needs to scale you still
-want a great team and real engineers [NAV-code].
+want a great team and real engineers [NAV-code]. His 2025 framing of who gains: "AI won't replace programmers,
+but rather make it easier for programmers to replace everyone else." [X 2025-01-03](https://x.com/naval/status/1875297712993964231)
 
 ## Judgement and taste are the scarce inputs
 
@@ -31,7 +37,8 @@ He adds that choosing the right thing to work on, versus the wrong thing, is "an
 on judgement more than programming skill [NAV-industrial]. With so much content and software, "there's no demand
 for average." [NAV-ai] But: "However, the set of things you can be best at is infinite." [NAV-ai] His summary of
 what humans still bring is creativity and taste, plus enough agency to start and stick with it
-[NAV-industrial].
+[NAV-industrial]. He links this to specific knowledge, which has no verifiably correct answers and so can't be
+trained into an AI either [X 2025-12-24](https://x.com/naval/status/2003747849264300469).
 
 ## Spend tokens, save time
 
@@ -52,7 +59,8 @@ produces and standing behind it [NAV-industrial]. And:
 ## What it does to companies and hiring
 
 - **Pure software is a weak moat.** If your whole advantage is software others can't build, he calls it
-  uninvestable, because others can hack it together and the agents keep improving [NAV-code].
+  uninvestable, because others can hack it together and the agents keep improving [NAV-code]. He had posted the
+  point two months earlier: "Pure software is rapidly becoming un-investable." [X 2026-03-01](https://x.com/naval/status/2027981651012473197)
 - **More small teams.** He argues that higher productivity means more hiring, not less, and that of someone really good with
   AI: "I want to hire them more than ever, for the leverage." [NAV-industrial]
 - **Generalists gain.** He says the falling barrier means "generalists are having a field day." [NAV-industrial]
