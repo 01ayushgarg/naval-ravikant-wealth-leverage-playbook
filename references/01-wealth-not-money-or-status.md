@@ -2,7 +2,7 @@
 
 Sources in this chapter: TWEET18 (31 May 2018) · RICH-01 (28 Feb 2019) · RICH-02 (3 Mar 2019) · RICH-04,
 RICH-05 (6 and 7 Mar 2019) · RICH-07, RICH-08 (11 and 14 Mar 2019) · RICH-35, RICH-36 (21 and 23 May 2019) ·
-TF-473 (15 Oct 2020) · NAV-indirect (25 Jul 2025).
+TF-473 (15 Oct 2020) · NAV-indirect (25 Jul 2025) · X posts (2020, 2025).
 
 ## Three different things
 
@@ -19,12 +19,17 @@ concrete [RICH-01]:
 | **Money** | Social credits: a record of claims on other people's time [RICH-01] | A record of value already created |
 | **Status** | "Status, on the other hand, is a zero-sum game." [RICH-01] | To win, someone else has to lose [RICH-01] |
 
+A 2020 post sharpens the contrast: "Status games are multiplayer, zero-sum, hierarchical, judged socially."
+[X 2020-05-31](https://x.com/naval/status/1267179384886095873) The games he favours are single player, positive
+sum and judged by nature or markets, and they pay later in wealth, health and knowledge [X 2020-05-31](https://x.com/naval/status/1267179384886095873).
+
 ## What wealth is for
 
 > "So, the purpose of wealth is freedom. It's nothing more than that." [RICH-01]
 
 He is clear about its limits: money won't solve all your problems, but "it's going to solve all of your money
-problems." [RICH-01] In 2020: "So to me, the purpose of money is freedom." [TF-473]
+problems." [RICH-01] In 2020: "So to me, the purpose of money is freedom." [TF-473] By 2025 he put it more broadly:
+"Wealth is the ability to make things happen." [X 2025-10-30](https://x.com/naval/status/1983776982145102307)
 
 ## Where it comes from
 
@@ -67,7 +72,8 @@ His advice is to make money in discrete lumps, spaced out, so your lifestyle doe
 
 The thread says there are no get-rich-quick schemes, only someone else getting rich off you
 [TWEET18 #38](https://x.com/naval/status/1002109022420451328). And: "If anyone is giving advice on how to get
-rich and they're also making money off of it, they should have made their money elsewhere." [RICH-36]
+rich and they're also making money off of it, they should have made their money elsewhere." [RICH-36] His 2025 version: "Nobody who's actually good at making
+money needs to sell you a course on it." [X 2025-02-01](https://x.com/naval/status/1885783497601892782)
 
 ## Go at it indirectly
 

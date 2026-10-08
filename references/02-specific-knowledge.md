@@ -2,7 +2,7 @@
 
 Sources in this chapter: NAV-life-formulas-i (8 Feb 2008) · TWEET18 (31 May 2018) · RICH-10 (19 Mar 2019) ·
 RICH-13 (25 Mar 2019) · RICH-14 (28 Mar 2019) · NAV-finding-time (13 Jan 2020) · NAV-find (29 Jul 2025) ·
-NAV-enjoy (31 Jul 2025).
+NAV-enjoy (31 Jul 2025) · X posts (2019 to 2025).
 
 ## What it is
 
@@ -12,6 +12,8 @@ NAV-enjoy (31 Jul 2025).
 The next tweet defines it as knowledge you can't be trained for, because whatever society can train you for, it
 can train someone else for, and replace you [TWEET18 #14](https://x.com/naval/status/1002104947624722433). His
 2008 wording was knowing how to do something society can't yet easily train others to do [NAV-life-formulas-i].
+In 2025 he quoted tweet #14 and extended it to machines: "Specific knowledge doesn't have verifiably correct
+answers - so it's not something AI can be trained for, either." [X 2025-12-24](https://x.com/naval/status/2003747849264300469)
 
 > "And it's not true that everything can be taught. In fact, the most interesting things cannot be taught."
 > [RICH-13]
@@ -29,6 +31,9 @@ in that domain." [RICH-14]
 | [#18](https://x.com/naval/status/1002105243767787520) | It's often highly technical or creative, and can't be outsourced or automated |
 | [#8](https://x.com/naval/status/1002103832879419392) | The Internet has widened the space of possible careers |
 
+The play test from #16, in a 2024 post: "If you have to do it, it's work. If you want to do it, it's play."
+[X 2024-10-24](https://x.com/naval/status/1849319566645821453)
+
 ## You mostly find it, you don't choose it
 
 > "You almost have to look back on your own life and see what you're actually good at." [RICH-13]
@@ -39,14 +44,16 @@ in that domain." [RICH-14]
 His own case: his mother, watching him critique how a local pizza parlour sold its slices, told him as a teenager
 that he'd go into business [RICH-13]. In 2025 he adds that you find it by doing: a friend who'll call hundreds of
 people to get one yes has found his [NAV-find]. And working for yourself pulls you toward it, because you
-naturally pick work that fits who you are [NAV-find].
+naturally pick work that fits who you are [NAV-find]. A 2019 post summing up the podcast says to build it where
+you are "a natural" [X 2019-03-30](https://x.com/naval/status/1112012346933665792).
 
 ## Go all in, or lose to someone who does
 
 > "So, if you're not 100% into it somebody else who is 100% into it will outperform you." [RICH-13]
 
 In 2025 he puts the bar higher still: to be the top, you have to enjoy the thing to an almost absurd degree
-[NAV-enjoy].
+[NAV-enjoy]. Once you have it, he says, credentials matter less: "You are ready to seize any role in life once
+you have the specific knowledge and overwhelming desire - experience is irrelevant." [X 2022-02-12](https://x.com/naval/status/1492594442074836995)
 
 ## Don't assemble it too deliberately, but do combine
 

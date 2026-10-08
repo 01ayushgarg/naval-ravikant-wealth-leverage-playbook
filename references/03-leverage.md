@@ -2,7 +2,7 @@
 
 Sources in this chapter: NAV-the-returns-to-entrepreneurship (9 Nov 2009) · TWEET18 (31 May 2018) · RICH-21 to
 RICH-25 (15 to 26 Apr 2019) · NAV-working-ourselves (24 Jun 2019) · NAV-least (19 Feb 2020) · NAV-ai
-(19 Feb 2026). Chapter 17 covers what AI changes.
+(19 Feb 2026) · X posts (2011, 2022). Chapter 17 covers what AI changes.
 
 ## Fortunes require it
 
@@ -11,6 +11,9 @@ with no marginal cost of replication: code and media
 [TWEET18 #22](https://x.com/naval/status/1002106317064949763). The tweet before it is Archimedes on a long enough
 lever [#21](https://x.com/naval/status/1002106224123432960). In 2020 he widened the list to include community
 [NAV-least].
+
+> "It doesn't take money to make money, it takes leverage to make money."
+> [X 2022-03-13](https://x.com/naval/status/1503125171745411073)
 
 ## The four kinds, ranked
 
@@ -37,6 +40,9 @@ Capital and labor are permissioned: someone has to give you money or follow you
 blogs, or record videos and podcasts ([#28](https://x.com/naval/status/1002107377598873600)).
 
 > "This newest form of leverage is where all the new fortunes are made, all the new billionaires." [RICH-22]
+
+The idea predates the thread. In 2011 he posted: "Code is the ultimate force multiplier and its leverage advantage
+is increasing." [X 2011-07-24](https://x.com/naval/status/95250260523368449)
 
 ## Pick a business model with built-in leverage [RICH-24]
 

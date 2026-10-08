@@ -2,7 +2,7 @@
 
 Sources in this chapter: NAV-the-80-hour-myth (29 Nov 2005) · TKP-18 (27 Feb 2017) · TWEET18 (31 May 2018) ·
 RICH-19, RICH-20 (11 and 13 Apr 2019) · RICH-26 (29 Apr 2019) · NAV-accountability (21 Jun 2019) ·
-NAV-finding-time (13 Jan 2020) · NAV-least (19 Feb 2020) · ANGEL-2 (12 Jun 2020) · NAV-arena (17 Jul 2025).
+NAV-finding-time (13 Jan 2020) · NAV-least (19 Feb 2020) · ANGEL-2 (12 Jun 2020) · NAV-arena (17 Jul 2025) · X posts (2018, 2019).
 
 He spells it *judgement* in the 2018 tweets and *judgment* on nav.al. Quotes keep his spelling.
 
@@ -13,6 +13,9 @@ you with responsibility, equity and leverage [TWEET18 #19](https://x.com/naval/s
 
 > "So accountability is a double-edged thing. It allows you to take credit when things go well and to bear the
 > brunt of the failure when things go badly." [RICH-19]
+
+His one-line version, posted with that episode: "Accountability means sticking your neck out."
+[X 2019-04-25](https://x.com/naval/status/1121465087993061376)
 
 ### Why it pays
 
@@ -50,6 +53,9 @@ built faster through foundational skills ([#29](https://x.com/naval/status/10021
 [#30](https://x.com/naval/status/1002107679353942016)).
 
 > "In an age of infinite leverage, judgment becomes the most important skill." [RICH-26]
+
+He first posted the line on 20 May 2018, eleven days before the thread
+[X 2018-05-20](https://x.com/naval/status/998039099427704832).
 
 ### What it is, and why small edges matter
 

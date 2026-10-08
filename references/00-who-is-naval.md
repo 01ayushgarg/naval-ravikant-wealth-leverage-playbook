@@ -4,7 +4,8 @@ This playbook is about one thing: how Naval Ravikant says wealth gets built, and
 learning, decision and happiness ideas that support building it. It doesn't cover his politics, his views on
 crypto as an asset or a cause, his science and philosophy podcasts, or his personal life.
 
-Citation IDs are in `SOURCES.md`: `[TWEET18 #n]` a tweet in the 2018 thread, linked · `[RICH-01]` to
+Citation IDs are in `SOURCES.md`: `[TWEET18 #n]` a tweet in the 2018 thread, linked · `[X yyyy-mm-dd]` a
+standalone post on X, linked · `[RICH-01]` to
 `[RICH-37]` the 2019 How to Get Rich podcast · `[NAV-slug]` a nav.al post or episode · `[ANGEL-1]` `[ANGEL-2]`
 How to Angel Invest (2019, 2020) · `[TF-...]` Tim Ferriss Show transcripts · `[TKP-18]` The Knowledge Project
 transcript (2017) · `[VH-...]` Venture Hacks · `[ALM]` the Almanack, compiled by Eric Jorgenson.
@@ -15,6 +16,8 @@ transcript (2017) · `[VH-...]` Venture Hacks · `[ALM]` the Almanack, compiled 
   2018 [TWEET18 #1](https://x.com/naval/status/1002103360646823936). Every tweet has its own link in
   `SOURCES.md`. To keep quoting from it short, this edition quotes only six of the tweets and paraphrases the
   rest, with a link to each.
+- **Standalone posts.** 48 of his other posts on X, from 2010 to 2026, back or extend the chapters. Several are
+  the first place a line appears, such as *Productize yourself* in 2010 [X 2010-09-29](https://x.com/naval/status/25854742061).
 - **The 2019 podcast.** He and Babak Nivi went through the thread in 37 episodes on nav.al, from February to May
   2019 [RICH-01 to RICH-37], then answered listener questions (June 2019 to March 2020).
 - **Earlier interviews.** The Tim Ferriss Show #97 (2015) and its Q&A follow-up (2016), and The Knowledge
