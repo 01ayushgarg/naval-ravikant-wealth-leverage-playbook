@@ -60,7 +60,7 @@ produces and standing behind it [NAV-industrial]. And:
 
 - **Pure software is a weak moat.** If your whole advantage is software others can't build, he calls it
   uninvestable, because others can hack it together and the agents keep improving [NAV-code]. He had posted the
-  point two months earlier: "Pure software is rapidly becoming un-investable." [X 2026-03-01](https://x.com/naval/status/2027981651012473197)
+point two months earlier: "Pure software is rapidly becoming un-investable." [X 2026-03-01](https://x.com/naval/status/2027981651012473197)
 - **More small teams.** He argues that higher productivity means more hiring, not less, and that of someone really good with
   AI: "I want to hire them more than ever, for the leverage." [NAV-industrial]
 - **Generalists gain.** He says the falling barrier means "generalists are having a field day." [NAV-industrial]

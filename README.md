@@ -6,8 +6,8 @@ big decision. Built only from his own recorded words.**
 
 Naval Ravikant co-founded AngelList and, earlier, Epinions, and has been an early investor in companies
 including Twitter. On 31 May 2018 he posted a 40-tweet thread, *How to Get Rich (without getting lucky)*, then
-spent 37 podcast episodes in 2019 explaining it with Babak Nivi. This repo turns the thread, the podcast and his
-other first-party posts, episodes and interviews, from 2005 to 2026, into a method you can run on your own work
+spent 37 podcast episodes in 2019 explaining it with Babak Nivi. This repo turns the thread, the podcast, 48 of
+his standalone X posts and his other first-party posts, episodes and interviews, from 2005 to 2026, into a method you can run on your own work
 this week.
 
 > "Seek wealth, not money or status. Wealth is having assets that earn while you sleep."
@@ -142,19 +142,21 @@ put it down." [RICH-34] Use this to sharpen your judgement, not to replace it.
 
 ## How it stays honest
 
-- **First-party only:** his 2018 thread, his nav.al posts and podcasts (2005 to 2026), his Tim Ferriss Show and
+- **First-party only:** his 2018 thread, 48 of his standalone X posts, his nav.al posts and podcasts (2005 to 2026), his Tim Ferriss Show and
   Knowledge Project transcripts, and Venture Hacks posts. No quote sites, no summaries of summaries.
 - **Quotes matched by script before publishing:** every quote of 20 characters or more was matched against a
   plain-text capture of the source it cites (normalising only quote marks, dashes and whitespace), and for
   interviews against his own turns only. Shorter fragments were checked by hand. The captures and the script
   aren't shipped, because the texts are the publishers'; `SOURCES.md` explains how to repeat the check.
 - **Short quotes:** none over 60 words, and quoting from any one source kept to about a tenth of it. The 2018
-  thread is mostly paraphrased, with a link to every tweet.
+  thread is mostly paraphrased, with a link to every tweet. Each standalone post is linked and dated; their dates
+  were checked against the post IDs.
 - **Every claim cited** with a source ID, which maps to a dated link in [`SOURCES.md`](SOURCES.md).
 - **Other speakers labelled:** lines from Babak Nivi, Tim Ferriss or Shane Parrish are marked as theirs.
 - **Edited transcripts flagged:** nav.al edits its podcast transcripts for clarity, and we say so.
-- **The Almanack is labelled:** it's compiled by Eric Jorgenson, so we lead with primary sources and label the few
-  Almanack-only lines.
+- **The Almanack is labelled:** it's compiled by Eric Jorgenson, so we lead with primary sources. The lines once
+  cited only to it (*If you can't decide, the answer is no*, the short-term-pain tie-breaker and the
+  one-hour-a-day reading line) now cite his original X posts first.
 - **Not in the corpus, not quoted:** his Joe Rogan interview has no official transcript, so nothing from it
   appears here.
 - **Our own reading is marked:** steps, thresholds, mechanics, worked numbers and templates are labelled as ours,
@@ -165,12 +167,13 @@ put it down." [RICH-34] Use this to sharpen your judgement, not to replace it.
 
 The full list, with dates and links, is in [`SOURCES.md`](SOURCES.md):
 
-How to Get Rich (without getting lucky), 40 tweets (31 May 2018) · How to Get Rich podcast, 37 episodes on nav.al
+How to Get Rich (without getting lucky), 40 tweets (31 May 2018) · 48 standalone posts on X (2010 to 2026) · How
+to Get Rich podcast, 37 episodes on nav.al
 (2019) · How to Angel Invest, Parts 1 and 2 (2019, 2020) · 45 other nav.al posts and episodes (2005 to 2026),
 including Curate People (2025), A Return to Code, Sell the Truth and The AI Industrial Revolution (2026) · The Tim
 Ferriss Show #97 (2015), its Q&A follow-up (2016) and #473 (2020) · The Knowledge Project #18 (2017) · 8 Venture
-Hacks posts (2009 to 2019) · The Almanack of Naval Ravikant, compiled by Eric Jorgenson (2020), for lines with no
-primary source in the corpus.
+Hacks posts (2009 to 2019) · The Almanack of Naval Ravikant, compiled by Eric Jorgenson (2020), as a labelled
+secondary source.
 
 ## License
 

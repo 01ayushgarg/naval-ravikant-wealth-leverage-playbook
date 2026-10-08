@@ -8,13 +8,14 @@ quotes were checked is described in the last section of this file.
 | ID | Source | Format |
 |---|---|---|
 | `[TWEET18 #n]` | *How to Get Rich (without getting lucky)*, a 40-tweet thread posted 31 May 2018, starting at [x.com/naval/status/1002103360646823936](https://x.com/naval/status/1002103360646823936). `#n` is the tweet's position; every citation links to that tweet | Archived thread (see caveats) |
+| `[X yyyy-mm-dd](link)` | A standalone post by @naval on X, outside the 2018 thread. The label is the post's UTC date; the link goes to the post | Live post (see below) |
 | `[RICH-01]` to `[RICH-37]` | How to Get Rich, the podcast in which Naval and Babak Nivi go through the thread, nav.al, 28 Feb to 24 May 2019 | nav.al transcripts, edited for clarity |
 | `[NAV-slug]` | A post or podcast episode at `nav.al/<slug>` | nav.al page |
 | `[ANGEL-1]` `[ANGEL-2]` | How to Angel Invest, Parts 1 and 2 (compilations of their Spearhead podcast), nav.al, 2019 and 2020 | nav.al transcripts, edited for clarity |
 | `[TF-097]` `[TF-QA]` `[TF-473]` | The Tim Ferriss Show transcripts on tim.blog. Only lines labelled `Naval Ravikant:` are his | tim.blog transcript |
 | `[TKP-18]` | The Knowledge Project #18 with Shane Parrish (Farnam Street), 2017. The host's questions are set in bold in the PDF and are not his | Publisher's transcript PDF |
 | `[VH-slug]` | Venture Hacks, the blog Naval co-wrote with Babak Nivi, at `venturehacks.com/<slug>` | See byline notes below |
-| `[ALM]` | The Almanack of Naval Ravikant (2020), **compiled by Eric Jorgenson** from Naval's words | Used only where we found no primary source, and labelled |
+| `[ALM]` | The Almanack of Naval Ravikant (2020), **compiled by Eric Jorgenson** from Naval's words | Labelled, and cited after the primary source where one exists |
 
 **Speaker labels in citations:** `[RICH-09, Nivi]` means the line is Babak Nivi's, not Naval's. `[NAV-agency, Nivi
 reading his tweet]` means the interviewer read out a tweet of Naval's. `[RICH-01, nav.al page note]` is the site's
@@ -70,6 +71,67 @@ edition quotes only tweets #2, #5, #10, #12, #13 and #26 (some in part) and para
 | 38 | No get rich quick schemes | 2018-05-31 08:46:23 | [1002109022420451328](https://x.com/naval/status/1002109022420451328) | 01, SKILL |
 | 39 | Specific knowledge with leverage, eventually | 2018-05-31 08:47:49 | [1002109380706250752](https://x.com/naval/status/1002109380706250752) | not cited |
 | 40 | When you're finally wealthy | 2018-05-31 08:48:31 | [1002109558058237953](https://x.com/naval/status/1002109558058237953) | 13 |
+
+## Standalone posts [X]
+
+48 posts by @naval on X, from 2010 to 2026, that back or extend a chapter. Each was fetched as JSON on 8 October
+2026 through a public X embed API, and checked three ways: the author is `naval`, the quoted text matches the post
+exactly, and the date in the label matches the post's timestamp. For posts from November 2010 on, the date was
+also decoded from the post ID (`((id >> 22) + 1288834974657) / 1000`, in UTC) and matches. The 2010 post
+`25854742061` predates X's time-based IDs, so its date comes from the post's timestamp only. Descriptions are our
+labels. Replies, reposts of other people and posts on politics, government, culture war, crypto, disputes or
+personal life were left out.
+
+| Date (UTC) | Post | What it says (our label) | Used in |
+|---|---|---|---|
+| 2010-09-29 | [25854742061](https://x.com/naval/status/25854742061) | For success, do what you love; productize yourself | 00, 07 |
+| 2011-07-24 | [95250260523368449](https://x.com/naval/status/95250260523368449) | Code is the ultimate force multiplier | 03 |
+| 2012-07-11 | [222912380353511424](https://x.com/naval/status/222912380353511424) | If you can't decide, the answer is no | 10, T06 |
+| 2014-09-16 | [511715728899473408](https://x.com/naval/status/511715728899473408) | Work with someone for life, or not for a day | 06 |
+| 2017-01-10 | [818630258916139008](https://x.com/naval/status/818630258916139008) | Negotiations are won by whoever cares less | 15 |
+| 2017-06-04 | [871415571551629312](https://x.com/naval/status/871415571551629312) | Science, math and philosophy, one hour a day | 09 |
+| 2017-06-10 | [873624849230385152](https://x.com/naval/status/873624849230385152) | Knowledge workers function like athletes | 08 |
+| 2018-02-22 | [966512979066765313](https://x.com/naval/status/966512979066765313) | A fit body, a calm mind, a house full of love | 13 |
+| 2018-03-20 | [975975798204112896](https://x.com/naval/status/975975798204112896) | Escape competition through authenticity | 07 |
+| 2018-05-20 | [998039099427704832](https://x.com/naval/status/998039099427704832) | Judgement in an age of infinite leverage | 04 |
+| 2018-06-03 | [1003095909889011713](https://x.com/naval/status/1003095909889011713) | Paid by the project, pay by the hour | 05 |
+| 2018-06-03 | [1003356436091400192](https://x.com/naval/status/1003356436091400192) | Summary of the thread: productize yourself | 07 |
+| 2018-06-08 | [1005107581289824256](https://x.com/naval/status/1005107581289824256) | Peace from mind | 13 |
+| 2018-07-13 | [1017619107196297216](https://x.com/naval/status/1017619107196297216) | Three decision rules, including the tie-breaker | 10, T06 |
+| 2019-03-30 | [1112012346933665792](https://x.com/naval/status/1112012346933665792) | Specific knowledge: build it where you are a natural | 02 |
+| 2019-04-04 | [1113621557866303488](https://x.com/naval/status/1113621557866303488) | Read what you love until you love to read | 09 |
+| 2019-04-25 | [1121465087993061376](https://x.com/naval/status/1121465087993061376) | Accountability means sticking your neck out | 04 |
+| 2019-05-20 | [1130530315607396358](https://x.com/naval/status/1130530315607396358) | Set and enforce an aspirational hourly rate | 08 |
+| 2019-10-10 | [1182090706954981377](https://x.com/naval/status/1182090706954981377) | The best in the world gets to do it for everyone | 07 |
+| 2019-11-17 | [1196164347497549824](https://x.com/naval/status/1196164347497549824) | Hire the best, pay the best | 14 |
+| 2020-05-31 | [1267179384886095873](https://x.com/naval/status/1267179384886095873) | Status games versus natural games | 01 |
+| 2020-09-11 | [1304250367065153537](https://x.com/naval/status/1304250367065153537) | Choose long-term over short-term | 06 |
+| 2020-09-30 | [1311212479796539392](https://x.com/naval/status/1311212479796539392) | Effectiveness without anxiety | 13 |
+| 2021-11-28 | [1464788767953154058](https://x.com/naval/status/1464788767953154058) | Non-linear portfolios: never sell early | 12 |
+| 2022-02-12 | [1492594442074836995](https://x.com/naval/status/1492594442074836995) | Specific knowledge and desire over experience | 02 |
+| 2022-03-13 | [1503125171745411073](https://x.com/naval/status/1503125171745411073) | It takes leverage to make money | 03 |
+| 2022-07-17 | [1548801581016969217](https://x.com/naval/status/1548801581016969217) | If your title matters, startups aren't for you | 14 |
+| 2022-09-28 | [1574961288291049473](https://x.com/naval/status/1574961288291049473) | Venture funds sell brand | 12 |
+| 2022-11-22 | [1594923336043069441](https://x.com/naval/status/1594923336043069441) | 10,000 iterations, not 10,000 hours | 09 |
+| 2023-09-18 | [1703679623136190929](https://x.com/naval/status/1703679623136190929) | Hire for judgement | 14 |
+| 2024-06-10 | [1799988029643464854](https://x.com/naval/status/1799988029643464854) | A startup is a treasure hunt for untapped behavior | 11 |
+| 2024-08-31 | [1829908521489744117](https://x.com/naval/status/1829908521489744117) | Ask what ideas to understand, not what books to read | 09 |
+| 2024-10-24 | [1849319566645821453](https://x.com/naval/status/1849319566645821453) | Work versus play | 02 |
+| 2025-01-03 | [1875297712993964231](https://x.com/naval/status/1875297712993964231) | AI and programmers | 17 |
+| 2025-01-17 | [1880400703455465572](https://x.com/naval/status/1880400703455465572) | Blame yourself for everything, preserve your agency | 13 |
+| 2025-02-01 | [1885783497601892782](https://x.com/naval/status/1885783497601892782) | Nobody good at making money sells a course on it | 01 |
+| 2025-03-22 | [1903559048089485593](https://x.com/naval/status/1903559048089485593) | Zero to one needs a founder-led flat team | 11 |
+| 2025-04-20 | [1913771131716456495](https://x.com/naval/status/1913771131716456495) | Joining or investing: the order of questions | 05, 12 |
+| 2025-07-07 | [1942102738265161834](https://x.com/naval/status/1942102738265161834) | AI is a form of leverage | 17 |
+| 2025-07-18 | [1946035289761448427](https://x.com/naval/status/1946035289761448427) | A startup distills undiscovered talent into a product | 14 |
+| 2025-08-27 | [1960588866999738430](https://x.com/naval/status/1960588866999738430) | What founders cannot delegate | 14 |
+| 2025-08-30 | [1961916128000966825](https://x.com/naval/status/1961916128000966825) | Selling: the job is to build trust | 15 |
+| 2025-10-30 | [1983776982145102307](https://x.com/naval/status/1983776982145102307) | Wealth is the ability to make things happen | 01 |
+| 2025-11-18 | [1990701924795175284](https://x.com/naval/status/1990701924795175284) | Founders tend to be the best marketers | 15 |
+| 2025-12-10 | [1998848128104239501](https://x.com/naval/status/1998848128104239501) | Founders cannot outsource recruiting (podcast excerpt) | 14 |
+| 2025-12-24 | [2003747849264300469](https://x.com/naval/status/2003747849264300469) | Specific knowledge and AI (quotes thread tweet #14) | 02, 17 |
+| 2026-03-01 | [2027981651012473197](https://x.com/naval/status/2027981651012473197) | Pure software becoming un-investable | 17 |
+| 2026-05-20 | [2057059290553155741](https://x.com/naval/status/2057059290553155741) | Only the best books | 09 |
 
 ## How to Get Rich podcast [RICH]
 
@@ -240,14 +302,17 @@ across them.
 - **Wording differences.** In RICH-09 Nivi reads tweet #9 as *All returns in life*; the archived thread reads *All
   the returns in life*. We follow the archived thread. The Almanack's wording is lightly copy-edited in places,
   which is one reason we cite primary sources first.
-- **Lines found only in the Almanack.** *If you cannot decide, the answer is no*, the tie-breaker *take the path
-  more painful in the short term* (chapter 10, template 06) and the one-hour-a-day reading line (chapter 09) appear
-  in this corpus only in the Almanack (and, for the first, in Nivi's `VH-11-lessons`). The Almanack's endnote for
-  the first points to a 2018 Periscope we couldn't check. Chapter 10 now leads with his checkable versions of the
-  rule [VH-angel, TF-QA, TKP-18, NAV-sell] and labels the Almanack lines as `[ALM, compiled by Eric Jorgenson]`.
+- **Lines once found only in the Almanack.** Three lines this repo used to cite only to the Almanack now have a
+  primary source on X: *If you can't decide, the answer is No* ([X 2012-07-11](https://x.com/naval/status/222912380353511424),
+  restated in [X 2018-07-13](https://x.com/naval/status/1017619107196297216)); the tie-breaker of taking the path
+  more painful in the short term (the same 2018 post, in different words from the Almanack's); and the
+  one-hour-a-day reading line ([X 2017-06-04](https://x.com/naval/status/871415571551629312)). Chapters 09 and 10
+  and template 06 now cite the posts first and keep the Almanack as a labelled secondary source. The Almanack's
+  wording differs slightly from each post.
 - **Productize yourself.** Nivi, addressing Naval, says "You summarized this entire tweetstorm with two words"
-  [RICH-37, Nivi], meaning *Productize yourself*. The corpus doesn't show where Naval first used the phrase, and
-  it isn't one of the 40 tweets, so it's cited to the podcast.
+  [RICH-37, Nivi], meaning *Productize yourself*. It isn't one of the 40 tweets. The earliest use we found is a
+  2010 post ([X 2010-09-29](https://x.com/naval/status/25854742061)), and three days after the thread he
+  summarised it with the same two words ([X 2018-06-03](https://x.com/naval/status/1003356436091400192)).
 - **Spelling.** He writes *judgement* in the 2018 tweets and *judgment* on nav.al. Quotes keep his spelling; our
   text uses *judgement*.
 - **Dated numbers.** Startup costs (2009), early-employee equity (2011), fundraising mechanics (2010), angel
@@ -270,12 +335,15 @@ across them.
 - **Venture Hacks:** two pages failed to capture (one gated, one audio only). Posts by Nivi alone are not quoted as
   Naval's.
 - **Third-party summaries, quote sites and unattributed "Naval quotes":** not used.
-- **Anything about politics, his crypto views or his personal life:** out of scope.
+- **Anything about politics, his crypto views or his personal life:** out of scope. This applies to his X posts
+  too: many of his most-shared posts are on those subjects and none are used.
+- **Other X posts:** replies, near-duplicate reposts of the same line, and posts that only promote a podcast
+  episode are not cited separately. We cite the episode instead.
 
 ## How quotes were checked
 
 Before publishing, every quoted passage of 20 characters or more was matched by script against plain-text copies
-of its cited source, captured from the URLs above, normalising only quote marks, dashes and whitespace, and
+of its cited source (for X posts, the post text in the fetched JSON), captured from the URLs above, normalising only quote marks, dashes and whitespace, and
 splitting at `...`. For interviews, the match was against the subject's own turns only (by speaker label, or for
 `TKP-18` by font), unless the citation labels another speaker. The same script checked that no quote is over 60
 words and measured how much of each source is quoted. The captured texts and the script aren't shipped in this
