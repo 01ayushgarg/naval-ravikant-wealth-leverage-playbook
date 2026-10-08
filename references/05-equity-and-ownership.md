@@ -2,7 +2,7 @@
 
 Sources in this chapter: VH-pick-cofounder (12 Nov 2009, byline Naval) · NAV-why-you-cant-hire (13 Dec 2011) ·
 TWEET18 (31 May 2018) · RICH-06 (8 Mar 2019) · RICH-20 (13 Apr 2019) · NAV-principal-agent (8 Jul 2019) ·
-ANGEL-1 (17 Nov 2019) · NAV-finding-time (13 Jan 2020) · TF-473 (15 Oct 2020) · NAV-curate-people (7 Nov 2025).
+ANGEL-1 (17 Nov 2019) · NAV-finding-time (13 Jan 2020) · TF-473 (15 Oct 2020) · NAV-curate-people (7 Nov 2025) · X posts (2018, 2025).
 
 **Not financial, legal or tax advice.** The mechanics section below is our general reading of how startup equity
 usually works, not his words. Check any real offer with a lawyer or accountant where you live.
@@ -23,7 +23,8 @@ The rest of the tweet says you must own equity, a piece of a business, to gain f
 
 His contrast: one great engineer's hour can be worth a fortune, while the best lumberjack is only a few times
 better than the worst [RICH-06]. What you want instead is work "where your inputs don't match your outputs."
-[RICH-06]
+[RICH-06] Three days after the thread he put it as a habit: "Rich people get paid by the project and pay by the
+hour." [X 2018-06-03](https://x.com/naval/status/1003095909889011713)
 
 ## Equity is the risk position, so it gets the upside
 
@@ -44,6 +45,9 @@ of a business, it's going to be extremely hard to get wealthy [TF-473]. The rout
 | Start a company | Most equity, most risk | Being a founder for life is a tough road most people aren't built for [ANGEL-1] |
 | Join as a proven operator | A reputation for execution | Be known as the person who gets the call when the next winner scales [ANGEL-1] |
 | Invest | Capital, judgement, dealflow (chapter 12) | As outcomes get more nonlinear, investing makes more sense relative to founding [ANGEL-1] |
+
+If you join, his 2025 order of questions puts equity third: "If joining an early stage startup, evaluate team,
+product, equity, salary, in that order." [X 2025-04-20](https://x.com/naval/status/1913771131716456495)
 
 ## Think like an owner before you are one
 

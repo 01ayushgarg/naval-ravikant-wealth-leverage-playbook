@@ -2,7 +2,7 @@
 
 Sources in this chapter: NAV-the-80-hour-myth (29 Nov 2005) · NAV-who-has-time-for-meetings (10 Apr 2010) ·
 TF-097 (18 Aug 2015) · TF-QA (2 May 2016) · TWEET18 (31 May 2018) · RICH-27 to RICH-29 (1 to 8 May 2019) ·
-TF-473 (15 Oct 2020).
+TF-473 (15 Oct 2020) · X posts (2017, 2019).
 
 ## Set the rate, then enforce it
 
@@ -14,7 +14,9 @@ rate, ignore it, and if outsourcing a task costs less, outsource it
 
 His own number, before he had real money, was $5,000 an hour [RICH-27]. How high is high enough: "It should seem
 and feel absurdly high. If it doesn't, it's not high enough." [RICH-27] He admits he still argued with the
-electrician and returned the broken speaker, and says he shouldn't have [RICH-27].
+electrician and returned the broken speaker, and says he shouldn't have [RICH-27]. When he reposted the rule in
+2019 he added the social cost: "Get comfortable disappointing people whose expectations will eat your life up, one
+hour at a time." [X 2019-05-20](https://x.com/naval/status/1130530315607396358)
 
 ## Work hard, on the right thing, with the right people
 
@@ -26,6 +28,8 @@ people, then work as hard as you can, "like three legs of a stool" [RICH-28].
 2005 version: "In fact, your best work was probably done in tremendous, focused bursts, surrounded by long
 periods of dullness and inactivity." [NAV-the-80-hour-myth] And: "Impatience with actions, patience with
 results." [RICH-28]
+A 2017 post gives the model: "Knowledge workers function like athletes - train and sprint, then rest and
+reassess." [X 2017-06-10](https://x.com/naval/status/873624849230385152)
 
 ## Make money with your mind, not your time
 

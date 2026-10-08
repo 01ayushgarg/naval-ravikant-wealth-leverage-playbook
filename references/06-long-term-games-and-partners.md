@@ -2,7 +2,7 @@
 
 Sources in this chapter: TF-QA (2 May 2016) · TWEET18 (31 May 2018) · RICH-09, RICH-11, RICH-12 (19 and
 22 Mar 2019) · RICH-34 (20 May 2019) · NAV-ethics (26 Jun 2019) · NAV-kelly-criterion (10 Jul 2019) · NAV-short
-(15 Jul 2019) · NAV-relationships (19 Jul 2019) · ANGEL-2 (12 Jun 2020) · TF-473 (15 Oct 2020).
+(15 Jul 2019) · NAV-relationships (19 Jul 2019) · ANGEL-2 (12 Jun 2020) · TF-473 (15 Oct 2020) · X posts (2014, 2020).
 
 ## Compound interest, everywhere
 
@@ -21,7 +21,8 @@ rich." [RICH-09, Nivi]
 What compounding buys: less friction, so you can do bigger things together [RICH-09]. With someone he has worked
 with for 20 years, he says, they don't have to read the legal contracts [NAV-relationships]. And the cost of
 leaving your field: "every time you wander out of where you built your network, you're going to be starting from
-scratch." [RICH-09]
+scratch." [RICH-09] A 2020 post folds the whole idea into one line: "All self-help boils down to" choosing
+long-term over short-term [X 2020-09-11](https://x.com/naval/status/1304250367065153537).
 
 ## Pick partners on three things
 
@@ -31,6 +32,9 @@ scratch." [RICH-09]
 He credits the three-part test to Warren Buffett [ANGEL-2]. His reasons, paraphrased [RICH-11]: without
 intelligence they head the wrong way; without energy you get smart, lazy people; without integrity you have a
 smart, hard-working crook who will eventually cheat you.
+
+His 2014 test for the time horizon: "If you can't see yourself working with someone for life, don't work with them
+for a day." [X 2014-09-16](https://x.com/naval/status/511715728899473408)
 
 ### Read signals, not claims
 

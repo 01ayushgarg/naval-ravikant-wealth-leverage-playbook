@@ -2,13 +2,16 @@
 
 Sources in this chapter: VH-passion-market (17 Jul 2011, byline Naval) · TWEET18 (31 May 2018) · RICH-10
 (19 Mar 2019) · RICH-15 (31 Mar 2019) · RICH-30 to RICH-32 (13 to 17 May 2019) · RICH-37 (24 May 2019) · TF-473
-(15 Oct 2020) · NAV-enjoy (31 Jul 2025) · NAV-reflect (6 Aug 2025) · NAV-ai (19 Feb 2026).
+(15 Oct 2020) · NAV-enjoy (31 Jul 2025) · NAV-reflect (6 Aug 2025) · NAV-ai (19 Feb 2026) · X posts (2010, 2018, 2019).
 
 ## Two words for the whole thread
 
 On the podcast, Nivi says to Naval: "You summarized this entire tweetstorm with two words" [RICH-37, Nivi].
-The two words are *Productize yourself*. The corpus doesn't show where Naval first wrote those words, and they aren't one of
-the 40 tweets, so we cite the podcast. Naval's unpacking:
+The two words are *Productize yourself*. They aren't one of the 40 tweets, but he had posted them eight years
+earlier: "For success, do what you love. For money, use leverage. People love themselves. Products create leverage.
+Productize yourself." [X 2010-09-29](https://x.com/naval/status/25854742061) Three days after the thread he quoted
+it with "Summary: Productize Yourself." [X 2018-06-03](https://x.com/naval/status/1003356436091400192) Naval's
+unpacking:
 
 > "Productize has specific knowledge and leverage. Yourself has uniqueness and accountability." [RICH-37]
 
@@ -32,7 +35,8 @@ points to writing, which is easier to learn [RICH-15]. Chapter 15 covers how he 
 ## Be the best in the world at something you define
 
 The thread says to become the best in the world at what you do, and keep redefining what you do until that's true
-([#37](https://x.com/naval/status/1002108897551773697)).
+([#37](https://x.com/naval/status/1002108897551773697)). Why it pays to be the best: "The best in the world at
+anything gets to do it for everyone." [X 2019-10-10](https://x.com/naval/status/1182090706954981377)
 
 > "Keep changing your objective until it arrives at your specific knowledge, skill sets, position, capabilities,
 > location and interests." [RICH-30]
@@ -40,6 +44,9 @@ The thread says to become the best in the world at what you do, and keep redefin
 In 2026, with AI raising the bar: "However, the set of things you can be best at is infinite." [NAV-ai]
 
 ## Escape competition through authenticity
+
+The heading is his own post from two months before the thread: "Escape competition through authenticity."
+[X 2018-03-20](https://x.com/naval/status/975975798204112896)
 
 > "If you are building and marketing something that's an extension of who you are, no one can compete with you."
 > [RICH-31]

@@ -2,7 +2,7 @@
 
 Sources in this chapter: TF-QA (2 May 2016) · TKP-18 (27 Feb 2017) · TWEET18 (31 May 2018) · RICH-16 to RICH-18
 (3 to 8 Apr 2019) · RICH-34 (20 May 2019) · TF-473 (15 Oct 2020) · NAV-read (10 Mar 2021) · NAV-arena (17 Jul
-2025) · NAV-do (21 Jul 2025) · NAV-density (24 Sep 2025) · NAV-simplest (1 Oct 2025) · ALM (2020, compiled by Eric
+2025) · NAV-do (21 Jul 2025) · NAV-density (24 Sep 2025) · NAV-simplest (1 Oct 2025) · X posts (2017 to 2026) · ALM (2020, compiled by Eric
 Jorgenson).
 
 ## The three tweets, our paraphrase
@@ -19,7 +19,9 @@ Jorgenson).
 > "the foundation of learning is reading. I don't know a smart person who doesn't read and read all the time."
 > [RICH-16]
 
-The tweet he says he left out of the thread: "read what you love until you love to read." [RICH-16] How much he
+The tweet he says he left out of the thread: "read what you love until you love to read." [RICH-16] He posted
+it in April 2019 with a coda: "The means of learning are abundant, it's the desire to learn that's scarce."
+[X 2019-04-04](https://x.com/naval/status/1113621557866303488) How much he
 reads, in 2017: "I probably read one to two hours a day." [TKP-18] And: "Making it an actual habit is the most
 important thing." [TKP-18]
 
@@ -33,7 +35,9 @@ book) [RICH-16], and that mathematics and logic are the ultimate foundation [RIC
 
 On rereading, he quotes @illacertus wanting to read the best 100 books over and over [NAV-read]. In 2025 he
 splits it: Lindy books for human nature, the bleeding edge for specific knowledge you get paid for
-[NAV-density], and he narrows the foundation to "just say study physics." [NAV-simplest]
+[NAV-density], and he narrows the foundation to
+"just say study physics." [NAV-simplest] His 2026 filter: "If it's not one of the best books you've ever read,
+don't read it." [X 2026-05-20](https://x.com/naval/status/2057059290553155741)
 
 ## The five skills
 
@@ -47,9 +51,14 @@ He names reading, writing, arithmetic and persuasion, then adds programming as t
 > "You want to be able to describe it in 10 different ways, in simple sentences from the ground up and re-derive,
 > whatever you need. If you just memorize, you're lost." [TF-473]
 
+The same idea applied to reading lists: "Instead of asking what books you should read, ask what ideas you should
+understand." [X 2024-08-31](https://x.com/naval/status/1829908521489744117)
+
 ## Doing is the faster teacher
 
 > "It's the number of iterations that drives the learning curve." [RICH-18]
+
+He compressed it in 2022: "It's not 10,000 hours, it's 10,000 iterations." [X 2022-11-22](https://x.com/naval/status/1594923336043069441)
 
 He adds that you have to get comfortable with frequent small failures [RICH-18]. In 2025: "Life is lived in the
 arena. You only learn by doing." [NAV-arena] And: "So I think doing leads to the desire to learn and therefore to
@@ -63,12 +72,14 @@ dilemma [RICH-18].
 He says the best founders he knows listen to everyone, then ignore everyone and make up their own minds
 [RICH-34]. He also says most of his tweets are maxims meant as mental hooks for when a situation recurs [RICH-34].
 
-## One line found only in the Almanack
+## The one-hour-a-day line
 
-The Almanack has a line about reading science, math and philosophy for an hour a day for seven years [ALM,
-compiled by Eric Jorgenson]. We couldn't trace that exact line to a primary source. The nearest checkable version
-is the 2017 interview above, where he says he reads one to two hours a day and that most people don't read an hour
-a day [TKP-18].
+> "Reading science, math, and philosophy one hour per day will likely put you at the upper echelon of human
+> success within seven years." [X 2017-06-04](https://x.com/naval/status/871415571551629312)
+
+This 2017 post is the primary source for the Almanack's compiled version of the line [ALM, compiled by Eric
+Jorgenson]. In an interview the same year he says he reads one to two hours a day and that most people don't read
+an hour a day [TKP-18].
 
 ## How to apply it (our reading)
 
