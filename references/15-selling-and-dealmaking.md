@@ -2,7 +2,7 @@
 
 Sources in this chapter: VH-presentation-hacks (13 Apr 2010, byline Naval; a talk transcript) · TF-097 (18 Aug
 2015) · TWEET18 (31 May 2018) · RICH-15 (31 Mar 2019) · NAV-short (15 Jul 2019) · NAV-sell (11 May 2026, a podcast
-with Nivi; only Naval's lines are quoted).
+with Nivi; only Naval's lines are quoted) · X posts (2017, 2025).
 
 The thread pairs selling with building ([#12](https://x.com/naval/status/1002104154737684480)), and chapter 07
 covers which to learn first. This chapter is about how he says to sell, and when to walk away from a deal.
@@ -14,7 +14,8 @@ covers which to learn first. This chapter is about how he says to sell, and when
 He opens the 2026 episode by saying he doesn't really sell; he works out what he believes and conveys it as
 accurately and honestly as he can [NAV-sell]. His reason: "the people you most want to impress in life are the ones
 who can see right through you." [NAV-sell] His picture of credibility is the real estate agent who steers you away
-from bad houses, so you trust them when the right one appears [NAV-sell].
+from bad houses, so you trust them when the right one appears [NAV-sell]. His 2025 post says the same in one
+line: "If you're selling, your job isn't to sell, it's to build trust." [X 2025-08-30](https://x.com/naval/status/1961916128000966825)
 
 ## Honesty first, then kindness
 
@@ -32,6 +33,9 @@ the right decisions for himself [NAV-sell].
 His advice to anyone in sales selling something they don't care about is to go find something else to sell
 [NAV-sell]. He applies it to fundraising: he waits until his own excitement about the business crosses a threshold,
 then explains what he sees, without exaggerating [NAV-sell]. Chapter 16 has the rest.
+
+On marketing, a 2025 post: channels get discovered, exploited and discarded, and "It's hard to hire rule-breakers,
+so the best marketers tend to be the founders themselves." [X 2025-11-18](https://x.com/naval/status/1990701924795175284)
 
 **A small craft point from 2010.** Drop filler words such as "uh" and "like", and learn to pause instead; he calls
 it probably the best single thing you can do to sound more persuasive [VH-presentation-hacks].
@@ -52,7 +56,8 @@ His reasoning, our summary of [NAV-sell]:
   you can walk away and not work with them again, do [NAV-sell].
 
 From 2019, when you're stuck in a one-off negotiation, turn it into a repeated game, and remember that
-negotiations are won by whoever cares less [NAV-short]. From 2015, the deals he regrets are advisory roles that
+negotiations are won by whoever cares less [NAV-short], a line he first posted in 2017
+[X 2017-01-10](https://x.com/naval/status/818630258916139008). From 2015, the deals he regrets are advisory roles that
 looked like free stock and cost him time [TF-097].
 
 ## How to apply it (our reading)

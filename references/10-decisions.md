@@ -3,7 +3,7 @@
 Sources in this chapter: VH-angel (16 Mar 2009) · TF-QA (2 May 2016) · TKP-18 (27 Feb 2017) · RICH-12
 (22 Mar 2019) · RICH-33, RICH-34 (19 and 20 May 2019) · NAV-ethics (26 Jun 2019) · NAV-kelly-criterion
 (10 Jul 2019) · NAV-inefficient, NAV-least (17 and 19 Feb 2020) · NAV-peace-motion (5 Mar 2020) · ANGEL-2
-(12 Jun 2020) · TF-473 (15 Oct 2020) · NAV-fool (22 Sep 2025) · NAV-sell (11 May 2026) · VH-11-lessons (17 Apr 2019,
+(12 Jun 2020) · TF-473 (15 Oct 2020) · NAV-fool (22 Sep 2025) · NAV-sell (11 May 2026) · X posts (2012, 2018) · VH-11-lessons (17 Apr 2019,
 Nivi's byline) · ALM (2020, compiled by Eric Jorgenson).
 
 ## Why decisions are the job now
@@ -16,8 +16,9 @@ think our ability to make individual decisions is actually not great." [TKP-18]
 
 ## Rule 1 · When in doubt, it's no
 
-This rule is often quoted as *If you can't decide, the answer is no*. That exact wording appears in this corpus
-only in the Almanack and in a post by Nivi, so we lead with the versions in Naval's own recorded words:
+He posted the rule in these words in 2012: "If you can't decide, the answer is No." [X 2012-07-11](https://x.com/naval/status/222912380353511424)
+In 2018 he repeated it as the first of three decision rules [X 2018-07-13](https://x.com/naval/status/1017619107196297216).
+His other recorded versions of the same rule:
 
 - **On investing, 2009:** "So, when in doubt, just say no." [VH-angel] His reason, via Buffett: the swings you
   don't make aren't counted against you [VH-angel].
@@ -30,9 +31,9 @@ only in the Almanack and in a post by Nivi, so we lead with the versions in Nava
   [NAV-sell].
 
 **Secondary versions, labelled.** The Almanack's compiled line is "If you cannot decide, the answer is no." [ALM,
-compiled by Eric Jorgenson] Its endnote points to a 2018 Periscope we couldn't check. Nivi's 2019 Venture Hacks
-post, which he says draws mostly on Naval, makes it lesson 1 for investments [VH-11-lessons, Nivi]. Treat both
-as summaries of the rule, not as Naval's verbatim words.
+compiled by Eric Jorgenson] Its endnote points to a 2018 Periscope we couldn't check; the posts above are
+the primary versions we could. Nivi's 2019 Venture Hacks post, which he says
+draws mostly on Naval, makes it lesson 1 for investments [VH-11-lessons, Nivi].
 
 ## Rule 2 · Test by doing, when you can
 
@@ -76,11 +77,13 @@ in my context?" [RICH-34]
 
 Without peace of mind, he says, you have too many threads running to judge well [NAV-inefficient].
 
-## The tie-breaker, labelled
+## The tie-breaker
 
-The Almanack also has a rule for genuine ties: "If you're evenly split on a difficult decision, take the path more
-painful in the short term." [ALM, compiled by Eric Jorgenson] We couldn't trace it to a primary source, so it's
-here as the compiler's selection, not as a headline rule.
+For genuine ties, the 2018 post adds: "If two equally difficult paths, choose the one more painful in the short
+term (pain avoidance is creating an illusion of equality)." [X 2018-07-13](https://x.com/naval/status/1017619107196297216)
+Its third rule is to choose the path that leaves you more equanimous in the long term [X 2018-07-13](https://x.com/naval/status/1017619107196297216).
+The Almanack's version reads "If you're evenly split on a difficult decision, take the path more painful in the
+short term." [ALM, compiled by Eric Jorgenson] We quote the post first because it is his own wording.
 
 ## How to apply it (our reading)
 

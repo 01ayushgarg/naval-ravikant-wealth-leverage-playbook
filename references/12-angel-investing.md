@@ -2,7 +2,7 @@
 
 Sources in this chapter: VH-angel (16 Mar 2009, a talk transcript posted by Nivi; only Naval's lines are
 quoted) · NAV-there-is-no-angel-bubble-there-are-many-angel-bubbles (1 Dec 2010) · TF-097 (18 Aug 2015) · TKP-18
-(27 Feb 2017) · ANGEL-1 (17 Nov 2019) · ANGEL-2 (12 Jun 2020) · NAV-sell (11 May 2026).
+(27 Feb 2017) · ANGEL-1 (17 Nov 2019) · ANGEL-2 (12 Jun 2020) · NAV-sell (11 May 2026) · X posts (2021 to 2025).
 
 ## Read this first
 
@@ -29,7 +29,8 @@ words:
 In 2015 he described the bet as most companies going to zero or returning your money while the rest post huge
 multiples [TF-097]. In 2026 he repeated it for deals in general: the number one winner is worth more than all the
 others put together [NAV-sell]. The consequence he draws: a team that looks likely to sell early is a negative
-signal [ANGEL-2].
+signal [ANGEL-2]. A 2021 post applies the same logic to holding: "When building a portfolio of investments that can
+have non-linear outcomes, never sell early." [X 2021-11-28](https://x.com/naval/status/1464788767953154058)
 
 ## 2 · Access comes from a brand
 
@@ -39,7 +40,9 @@ He gave the same three in 2009 [VH-angel]. On access: "The way you get access is
 [ANGEL-1] He defines a brand as an authentic reputation with founders and investors, built around your real
 capabilities rather than a vertical [ANGEL-1]. His own early brand was growth hacking, which got him into Twitter's
 round [ANGEL-1]. Two warnings: hunting for deals lowers returns, and a stranger offering you a deal has probably
-exhausted their closer allies [ANGEL-1]. Being cut out of a deal, he says, can indicate it's a winner [ANGEL-1].
+exhausted their closer allies [ANGEL-1]. Being cut out of a deal, he says, can indicate it's a winner [ANGEL-1]. The same
+logic at fund scale, from 2022: "Venture funds sell brand in exchange for the right to invest money."
+[X 2022-09-28](https://x.com/naval/status/1574961288291049473)
 
 ## 3 · Judgement, mostly about founders
 
@@ -56,6 +59,9 @@ His founder tests, paraphrased:
 | Not coachability: great founders listen widely and follow little | [ANGEL-2] |
 | First-timers: test ability to learn. Repeat founders: test passion | [ANGEL-2] |
 | Builders, not titles; a top-heavy company is a bad sign | [VH-angel] |
+
+His 2025 order of questions for an early-stage investment: "evaluate team, product, terms, revenues in that order."
+[X 2025-04-20](https://x.com/naval/status/1913771131716456495)
 
 On deals: "The best deals are weird. They always have something broken, strange or different about them."
 [ANGEL-2] He allows one fatal flaw and worries at two [ANGEL-2], and says the money is made being

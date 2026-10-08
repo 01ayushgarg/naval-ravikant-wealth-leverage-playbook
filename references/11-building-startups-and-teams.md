@@ -4,7 +4,7 @@ Sources in this chapter: NAV-the-80-hour-myth (29 Nov 2005) · VH-pick-cofounder
 VH-startup-principles (26 Apr 2010, byline Naval) · VH-passion-market (17 Jul 2011, byline Naval) · TF-QA (2 May 2016) ·
 NAV-build-a-team-that-ships (27 Apr 2012) · RICH-11 (22 Mar 2019) · RICH-28 (6 May 2019) · RICH-36 (23 May 2019) ·
 NAV-principal-agent (8 Jul 2019) · NAV-relationships (19 Jul 2019) · NAV-truly (26 Jul 2025) · NAV-fool (22 Sep
-2025) · NAV-simplest (1 Oct 2025) · NAV-curate-people (7 Nov 2025) · NAV-code (28 Apr 2026) · NAV-sell (11 May 2026).
+2025) · NAV-simplest (1 Oct 2025) · NAV-curate-people (7 Nov 2025) · NAV-code (28 Apr 2026) · NAV-sell (11 May 2026) · X posts (2024, 2025).
 
 This chapter is the founder's overview. Recruiting and culture are in chapter 14, selling and deals in 15,
 fundraising in 16, and AI-era building in 17. Venture Hacks posts were co-written by Naval and Babak Nivi; the ones
@@ -33,7 +33,9 @@ Our reading of how his newer sources update it:
 
 His 2011 argument: product-market fit is precise and the Internet is efficiently arbitraged, so you're most
 likely to find it if you're obsessed with the market and have worked on it a long time [VH-passion-market]. He
-later adds the founder to the fit [RICH-28].
+later adds the founder to the fit [RICH-28]. His 2024 framing of the search: "A startup is a treasure hunt for a
+true but untapped behavior." [X 2024-06-10](https://x.com/naval/status/1799988029643464854) In the same post: the
+quality of the product is the quality of the search [X 2024-06-10](https://x.com/naval/status/1799988029643464854).
 
 ## The co-founder is the biggest decision
 
@@ -64,6 +66,9 @@ project, alone accountable. His own caveat in the post: they shipped too many ha
 Be honest with hires about the deal. He says that at some level every founder has to lie to every employee, and
 offers an alternative: tell entrepreneurial hires you'll support them when they leave to start their own thing
 [RICH-36].
+
+Why scale fights invention, in a 2025 post: hierarchy brings in the principal-agent problem, and "Going from zero
+to one requires a founder-led flat team." [X 2025-03-22](https://x.com/naval/status/1903559048089485593)
 
 ## Someone holds the whole product in their head
 

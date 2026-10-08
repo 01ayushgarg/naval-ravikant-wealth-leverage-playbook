@@ -2,7 +2,7 @@
 
 Sources in this chapter: NAV-the-80-hour-myth (29 Nov 2005) · NAV-why-you-cant-hire (13 Dec 2011) ·
 NAV-build-a-team-that-ships (27 Apr 2012) · RICH-11 (22 Mar 2019) · NAV-curate-people (7 Nov 2025, a podcast
-with Nivi; only Naval's lines are quoted) · NAV-sell (11 May 2026) · NAV-industrial (1 Jun 2026).
+with Nivi; only Naval's lines are quoted) · NAV-sell (11 May 2026) · NAV-industrial (1 Jun 2026) · X posts (2019 to 2025).
 
 His 2025 episode on recruiting opens with a line Nivi attributes to another investor, that the team you build is
 the company you build [NAV-curate-people, Nivi]. Naval agrees, and says it's truest for the first people a
@@ -20,6 +20,11 @@ colleagues are a cognitive load on them, and remind them they belong somewhere e
 
 > "So we really cannot outsource recruiting." [NAV-curate-people]
 
+He later posted this passage under the heading "Founders cannot outsource recruiting."
+[X 2025-12-10](https://x.com/naval/status/1998848128104239501) A shorter 2025 post names the full list:
+"Founders can delegate everything except recruiting, fundraising, strategy, and product vision."
+[X 2025-08-27](https://x.com/naval/status/1960588866999738430)
+
 Nobody else will be as selective as a founder, he says, and recruiters and HR can't bring you unusual people
 [NAV-curate-people]. He also argues against hiring "people who are better than you" early on: they won't stay
 long, because early on all you bring is yourself [NAV-curate-people]. His conclusion: "And the clearest way you
@@ -30,12 +35,16 @@ can show how good you are is by recruiting great people." [NAV-curate-people]
 - **Intelligence, energy, integrity**, Buffett's test, plus one he adds, low ego: "Low-ego people are just much
   easier to manage." [NAV-curate-people] He says you can manage 30 or 40 of them where you might manage five
   high-ego people [NAV-curate-people]. The three-part test is the same one he gives for partners [RICH-11].
+- **Judgement.** A 2023 post: "Hire for judgement - eventually you'll run out of bandwidth, and the early hires
+  make the decisions and set the DNA of the company." [X 2023-09-18](https://x.com/naval/status/1703679623136190929)
 - **Self-motivated.** People who have to be pushed and flogged "don't belong in an early-stage startup."
   [NAV-curate-people]
 - **Taste, matched to the domain.** "Makers have taste in other makers." [NAV-curate-people] Someone hiring for
   social media should have a great account themselves [NAV-curate-people].
 - **Undiscovered.** By the time someone is famous online or fully pedigreed, he says, they're very hard to
-  recruit; a good sourcer hunts talent before everyone else sees it [NAV-curate-people].
+  recruit; a good sourcer hunts talent before everyone else sees it [NAV-curate-people]. His 2025 post puts it
+  at the centre: "The job of a startup is to find undiscovered talent and distill it into a product."
+  [X 2025-07-18](https://x.com/naval/status/1946035289761448427)
 
 ## The bar: a test you can run today
 
@@ -50,7 +59,10 @@ person you need to let go." [NAV-curate-people] His company motto, which he call
 > "Every single hire, we had to break some core rule of recruiting." [NAV-curate-people]
 
 He lists objections he'll work around, such as a new baby, a university post or not being able to afford to
-exercise options, and says founders can break rules on the cap table, roles and title [NAV-curate-people]. His
+exercise options, and says founders can break rules on the cap table, roles and title [NAV-curate-people]. Pay is one of them:
+"Everybody wants to hire the best. Nobody wants to pay them the best." [X 2019-11-17](https://x.com/naval/status/1196164347497549824)
+Title is not, for the hire: "If your title matters to you, you don't belong at a startup."
+[X 2022-07-17](https://x.com/naval/status/1548801581016969217) His
 2011 version for pre-traction startups was to treat the first engineers as late founders
 [NAV-why-you-cant-hire].
 
